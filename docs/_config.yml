@@ -55,7 +55,7 @@ plugins:
 #   - vendor/ruby/
 logo: "/assets/images/logo_small.png"
 search_enabled: true
-color_scheme: dark-wide
+color_scheme: dark
 
 aux_links:
   "Contribute to this on GitHub":
