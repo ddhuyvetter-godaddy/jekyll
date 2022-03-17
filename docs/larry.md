@@ -1,6 +1,6 @@
 ---
 title: Larry
-order: 3
+order: 2
 ---
 
 Larry
