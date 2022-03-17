@@ -28,6 +28,7 @@ url: "https://ddhuyvetter-godaddy.github.io" # the base hostname & protocol for 
 
 # Build settings
 remote_theme: just-the-docs/just-the-docs
+color_scheme: "dark"
 # plugins:
 #  - jekyll-feed
 
