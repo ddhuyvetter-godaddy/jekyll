@@ -6,3 +6,7 @@ permalink: /introduction/moe
 ---
 
 Moe
+
+yet another [Moe]("../moe")
+
+![Godaddy](../_diagrams/godaddy.png)
