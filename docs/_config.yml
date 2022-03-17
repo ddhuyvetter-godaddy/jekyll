@@ -18,20 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Test Site
-email: your-email@example.com
+title: Test title
+email: test-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the description.
+  Test description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-
 # Build settings
-markdown: kramdown
 remote_theme: just-the-docs/just-the-docs
-# plugins:
-#   - jekyll-feed
-#   - github-pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -52,10 +47,3 @@ remote_theme: just-the-docs/just-the-docs
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-logo: "/assets/images/logo_small.png"
-search_enabled: true
-color_scheme: dark
-
-aux_links:
-  "Contribute to this on GitHub":
-    - "//github.com/ddhuyvetter/jekyll"
