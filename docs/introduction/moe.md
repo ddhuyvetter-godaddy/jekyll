@@ -1,7 +1,7 @@
 ---
 title: Moe
 parent: Introduction
-order: 2
+nav_order: 2
 ---
 
 Moe

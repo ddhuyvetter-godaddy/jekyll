@@ -1,5 +1,5 @@
 ---
 title: Home
-order: 1
+nav_order: 1
 ---
 This is the main page

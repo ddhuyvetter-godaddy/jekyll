@@ -1,7 +1,7 @@
 ---
 title: Jack
 parent: Introduction
-order: 1
+nav_order: 1
 ---
 
 Jack
