@@ -23,7 +23,7 @@ email: test-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Test description.
 domain: "ddhuyvetter-godaddy.github.io"
-baseurl: "/jekyll/docs/" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll/" # the subpath of your site, e.g. /blog
 url: "https://ddhuyvetter-godaddy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
